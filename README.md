@@ -16,3 +16,5 @@ Additional benefits
 ~/Desktop$ cd HostMacScreenshots
 ~/Desktop/HostMacScreenshots$ python HostMacScreenshots.py
 ```
+
+Access http://localhost:8000 (default port set in code) for the screenshot links
